@@ -37,4 +37,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deployment done
-        uses: echo "Deployment compleated"
+        run: echo "Deployment compleated"
